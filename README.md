@@ -1,4 +1,4 @@
-# ShitCoding
+# ShitCoding 💩
 I code these things, 'cause coding is love!
 
 ### Things I've made
