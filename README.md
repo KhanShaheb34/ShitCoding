@@ -12,4 +12,4 @@ I code these things, 'cause coding is love!
 ### How to run them:
 * Clone/Download the repository
 * Download and Install Processing 3 from https://processing.org/download
-* Open any code with Processing 3
+* Open and run any code with Processing 3
