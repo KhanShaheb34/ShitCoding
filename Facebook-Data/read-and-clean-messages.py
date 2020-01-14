@@ -20,3 +20,4 @@ for message in messages:
     if 'content' in message:
         file.write(message['content'])
     file.write('\n')
+file.close()
